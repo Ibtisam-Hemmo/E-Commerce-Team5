@@ -2,6 +2,8 @@
 
 ## Project Description
 is app for ecommerce 
+
+## [Live Link](https://e-commerce-team5.netlify.app/)
 ## User Stories
 - as i user should be able to add to see my items
 - as i user should be able to see the items
